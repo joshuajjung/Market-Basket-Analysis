@@ -1,4 +1,4 @@
-# Market-Basket-Analysis
+# online-retail-market-basket-sql-tableau
 
 **Links:** Tableau Public Dashboard https://public.tableau.com/views/MarketBasketAnalysis_17687171081140/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
